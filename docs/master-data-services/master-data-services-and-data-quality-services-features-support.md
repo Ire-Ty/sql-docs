@@ -13,7 +13,7 @@ ms.topic: conceptual
 
 [!INCLUDE [SQL Server - Windows only ASDBMI](../includes/applies-to-version/sql-windows-only-asdbmi.md)]
 
-This article describes which versions of SQL Server support [!INCLUDE[ssMDSshort_md](../includes/ssmdsshort-md.md)] and Data Quality Services.
+This article describes which editions of SQL Server technically support [!INCLUDE[ssMDSshort_md](../includes/ssmdsshort-md.md)] and Data Quality Services (requires separate Enterprise license).
 
 ## Master Data Services
 
